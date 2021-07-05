@@ -1,6 +1,6 @@
-# ResponsiSPCK
+# Project Akhir SCPK
 
-## Responsi SCPK Plug A kelompok 4 
+## Project Akhir SCPK Plug A kelompok 4 
 
 ### Anggota : 
 - Bagus Gede Anugrah Perdana Sentosa (123190058)
