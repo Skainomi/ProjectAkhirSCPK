@@ -7,7 +7,7 @@
 - Rivano Ardiyan Taufiq Kurniawan (123190084)
 
 ### Penjelasan singkat
- Program yang kami buat bejudul "Penentuan Peraihan Medali Olimpiade Sains" adalah program yang digunakan untuk menentukan <br>
+ Project yang kami buat bejudul "Sistem Pendukung Keputusan untuk Menentukan Hasil Olimpiade dengan Metode FAHP" adalah program yang digunakan untuk menentukan <br>
  peraihan medali berdasarkan nilai yang diperoleh atau diinput menggunakan metode FAHP. Program akan meminta empat buah inputan yaitu nama peserta, <br>
  nilai matematika, nilai ipa, dan nilai tpa. Setelah semua nilai diinput, dengan mengklik tombol masukkan maka nilai akan dimasukan ke dalam tabel. <br>
  Setelah nilai dimasukan, pengguna dapat menentukan perolehan medali dan nilai dengan cara mengklik tombol tentukan. Lalu perolehan medali dan nilai akan ditampilkan. <br>
