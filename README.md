@@ -7,11 +7,10 @@
 - Rivano Ardiyan Taufiq Kurniawan (123190084)
 
 ### Penjelasan singkat
- Project yang kami buat bejudul "Sistem Pendukung Keputusan untuk Menentukan Hasil Olimpiade dengan Metode FAHP" adalah program yang digunakan untuk menentukan <br>
- peraihan medali berdasarkan nilai yang diperoleh atau diinput menggunakan metode FAHP. Program akan meminta empat buah inputan yaitu nama peserta, <br>
- nilai matematika, nilai ipa, dan nilai tpa. Setelah semua nilai diinput, dengan mengklik tombol masukkan maka nilai akan dimasukan ke dalam tabel. <br>
- Setelah nilai dimasukan, pengguna dapat menentukan perolehan medali dan nilai dengan cara mengklik tombol tentukan. Lalu perolehan medali dan nilai akan ditampilkan. <br>
- Setelah hasil muncul, pengguna dapat memilih data yang ada pada tabel untuk menampilkan pesan & gambar medali.
+Program yang kami buat berjudul "Sistem Pendukung Keputusan untuk Menentukan Peraihan Medali Olimpiade Sains dengan Metode FAHP" adalah program yang digunakan untuk menentukan peraihan medali berdasarkan nilai yang di-inputkan oleh pengguna menggunakan metode FAHP.<br>
+Program akan meminta empat buah inputan yaitu nama peserta, nilai Matematika, nilai IPA, dan nilai TPA. Dimana, inputan nilai akan berperan sebagai kriteria perhitungan, sehingga ia harus dalam bentuk angka dan berada dalam range data kriteria tersebut. Setelah semua nilai diinput, dengan menekan tombol "Masukkan" maka nilai akan dimasukan ke dalam tabel.<br>
+Setelah nilai dimasukan, pengguna dapat menentukan perolehan medali dan nilai dengan cara menekan tombol "Tentukan". Lalu perolehan medali dan nilai akan ditampilkan.<br>
+Setelah hasil muncul, pengguna dapat memilih data yang ada pada tabel untuk menampilkan pesan & gambar medali.<br>
  
  
  
