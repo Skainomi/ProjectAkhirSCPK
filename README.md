@@ -3,8 +3,7 @@
 ## Project Akhir SCPK Plug A kelompok 4 
 
 ### Anggota : 
-- Bagus Gede Anugrah Perdana Sentosa (123190058)
-- Rivano Ardiyan Taufiq Kurniawan (123190084)
+
 
 ### Penjelasan singkat
 Program yang kami buat berjudul "Sistem Pendukung Keputusan untuk Menentukan Peraihan Medali Olimpiade Sains dengan Metode FAHP" adalah program yang digunakan untuk menentukan peraihan medali berdasarkan nilai yang di-inputkan oleh pengguna menggunakan metode FAHP.<br>
